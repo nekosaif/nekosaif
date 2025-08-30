@@ -29,7 +29,6 @@ I'm an Embedded Systems & Software Engineer focused on AI/ML and Robotics. I bui
 ---
 
 ## Selected Projects
-> (click a project name to open the repository)
 
 - **LangChain Chatbot API** — [nekosaif/langchain-chatbot-api](https://github.com/nekosaif/langchain-chatbot-api)  
   Production-ready FastAPI backend using LangChain + vector DB (FAISS) for PDF/TXT/CSV-based FAQ retrieval and LLM orchestration.
@@ -51,8 +50,6 @@ I'm an Embedded Systems & Software Engineer focused on AI/ML and Robotics. I bui
   - `nekosaif.github.io` (personal site)  
   - `StockSimulation`, `yahoofinance_api_plot`, `bracu_seats_finder`  
   - `BRACU-CSE-Labs`, `BRACU-CSE-Lab_Projects`, `p5-py` etc.
-
-> Note: A few repos are private (e.g., `dataset`, `capydoro`, `nekosaif-dev`, `20101416_CSE_Lab`) and will not display publicly.
 
 ---
 
