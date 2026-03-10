@@ -83,16 +83,4 @@ I'm an Embedded Systems & Software Engineer focused on AI/ML and Robotics. I bui
 ## Contact
 - Email: mollahmdsaif@gmail.com  
 - LinkedIn: https://linkedin.com/in/nekosaif  
-- Twitter / X: *(add if you have one)*
 
----
-
-### Want to help improve this README?
-If you'd like, I can:
-- generate a minimal profile banner image,
-- add dynamic "latest blog post" or "latest repo" widgets,
-- create per-project small README templates so each repo has a consistent layout.
-
----
-
-*Thanks for visiting — feel free to explore my repos or reach out! ✨*
