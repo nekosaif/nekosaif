@@ -1,182 +1,113 @@
-# Hi, I'm Mollah Md Saif 👋 (nekosaif)
+<h1 align="center">Hi, I'm Mollah Md Saif 👋</h1>
+<p align="center">
+  <b>Graduate Research Assistant · AI/ML · Robotics · Autonomous Systems</b><br/>
+  <i>📍 Dhaka, Bangladesh</i>
+</p>
 
-[![Profile views](https://komarev.com/ghpvc/?username=nekosaif&color=blue&style=flat-square)](https://github.com/nekosaif)
-
-**Graduate Research Assistant — AI/ML · Robotics · Autonomous Systems**
-
-📍 Dhaka, Bangladesh
-
----
-
-## About Me
-
-Graduate Research Assistant in robotics and AI with experience developing high-performance autonomy stacks and multi-sensor perception systems at BRAC University. I mentor undergraduate thesis students, have published at **ICRA 2025**, and led the BRACU Mongol Tori rover team in international competitions. My work spans Python, C++, ROS and modern AI/ML frameworks, with a focus on robust algorithms and intelligent robotic systems for unstructured real-world environments.
-
----
-
-## Quick Links
-
-- 🌐 Website: [nekosaif.com](https://nekosaif.com) (repo: [nekosaif/nekosaif.github.io](https://github.com/nekosaif/nekosaif.github.io))
-- 🔗 GitHub: [github.com/nekosaif](https://github.com/nekosaif)
-- 💬 LinkedIn: [linkedin.com/in/nekosaif](https://linkedin.com/in/nekosaif)
-- ✉️ Email: mollahmdsaif@gmail.com
-- 📞 Phone: +880-1920-545913
+<p align="center">
+  <a href="https://nekosaif.com"><img src="https://img.shields.io/badge/Website-nekosaif.com-1f6feb?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/nekosaif"><img src="https://img.shields.io/badge/LinkedIn-nekosaif-0a66c2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mollahmdsaif@gmail.com"><img src="https://img.shields.io/badge/Email-mollahmdsaif%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://doi.org/10.1109/icra55743.2025.11127865"><img src="https://img.shields.io/badge/ICRA-2025-2ea043?style=flat-square&logo=ieee&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=nekosaif&color=1f6feb&style=flat-square&label=Profile+Views"/>
+</p>
 
 ---
 
-## Education
+### 🧠 About
 
-**BRAC University** — *BS in Computer Science* (Jan 2020 – Sep 2024)
-- CGPA: **3.65 / 4.0** · VC's List (7 semesters), Dean's List (1 semester)
-- Research areas: Robotics, Autonomous Systems, System Automation, IoT, Space Science
+Robotics + AI researcher at **BRAC University** building autonomy stacks and multi-sensor perception for unstructured environments. Published at **ICRA 2025**, led BRACU Mongol Tori through three international rover challenges, and ship production ML/LLM systems in Python, C++ and ROS.
 
-**Notre Dame College, Dhaka** — *Higher Secondary, Science* (2017 – 2019)
+```yaml
+focus:    [ autonomous navigation, sensor fusion, RAG/LLMs, embedded ML ]
+working:  [ TransFuser-style driving stack for Dhaka traffic, on-device perception ]
+open-to:  [ remote roles · robotics & AI collabs · research partnerships ]
+```
 
 ---
 
-## Publication
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
+
+<details>
+<summary><b>More</b> — full skill breakdown</summary>
+
+- **Languages** — Python, C/C++, Java, R, SQL, Bash, PowerShell
+- **DL / CV** — PyTorch, TensorFlow, Keras, OpenCV, YOLO v5/8/11, Mask R-CNN, U-Net, Detectron2, SAM, DINO, Tesseract / PaddleOCR
+- **AI / NLP** — LangChain, LlamaIndex, RAG, FAISS / Pinecone / ChromaDB, Hugging Face, GPT / Llama, DQN / PPO
+- **Robotics** — ROS, Gazebo, CBS path planning, inverse kinematics, multi-agent systems, sensor fusion
+- **Embedded** — Arduino, Raspberry Pi, ESP32, FreeRTOS, embedded C/C++
+- **MLOps** — Docker, CI/CD, AWS (EC2, S3, SageMaker), W&B, MLflow, model quantization
+- **Hardware** — PCB design (Autodesk Eagle), power electronics, CubeSat / APRS
+
+</details>
+
+---
+
+### 🚀 Selected Projects
+
+| Project | Stack | Year |
+| --- | --- | --- |
+| **Resilient autonomous navigation for hyper-congested cities** — TransFuser-based IL+RL stack, SAGE split computing over Multi-RAT 5G, drive-by-wire EV, Dhaka-Dense Dataset (D3) | TransFuser · LiDAR · 5G · VLM | 2025– |
+| **Multi-Agent Pathfinder for Fog Robots** — modified CBS for multi-robot planning with YOLOv8 perception and RL exploration | ROS · Gazebo · YOLOv8 · MARL | 2023–24 |
+| [**LangChain Chatbot API**](https://github.com/nekosaif/langchain-chatbot-api) — production FAQ backend with FAISS retrieval and Docker packaging | FastAPI · LangChain · FAISS | 2025 |
+| [**Flask Chatbot Demo**](https://github.com/nekosaif/flask-chatbot-demo) — lightweight real-time chat frontend | Flask · Tailwind · JS | 2025 |
+| [**PatientEntry Installer**](https://github.com/nekosaif/patient_entry_setup) — silent install + SFX packaging for medical software | PowerShell · WinRAR SFX | 2024 |
+| **BIRDS-X APRS Payload** — 2U CubeSat APRS payload design, link budgets, engineering models | CubeSat · APRS · RF | 2022–23 |
+| [**Rover Inverse Kinematics**](https://github.com/nekosaif/rover_inverse_kinematics) — 3-DOF arm IK with Arduino firmware + Python UI | Arduino · Python | 2022 |
+
+---
+
+### 📄 Publication
 
 **Autonomous Navigation in Crowded Spaces Using Multi-Sensory Data Fusion**
-*2025 IEEE International Conference on Robotics & Automation (ICRA)* — A\* conference
-Presented in Atlanta, USA · May 2025 · DOI: [10.1109/icra55743.2025.11127865](https://doi.org/10.1109/icra55743.2025.11127865)
-*Topics: Autonomous Navigation, Social HRI, Path Planning, Obstacle Avoidance, Trajectory Prediction, Pose Estimation, Sensor Fusion.*
+*IEEE ICRA 2025 (A\*)* · Atlanta, USA · [DOI](https://doi.org/10.1109/icra55743.2025.11127865)
 
 ---
 
-## Research Experience
+### 🏆 Highlights
 
-**Research Assistant (Robotics)** — BRAC University · *Sep 2025 – Present*
-Mentor undergraduate thesis students in Robotics, Perception and AI. Lead R&D of AI-driven autonomy and perception systems for unstructured environments. Provide technical advisory to the BRACU Mongol Tori rover team.
-
-**Research Assistant — Samsung R&D Institute Bangladesh** · BRAC University · *Mar 2026 – Present*
-Implement and benchmark mobile object-tracking algorithms; curate video datasets and design annotation pipelines; implement scene-graph generation models from video frames.
-
-**Research Assistant — BRAC Skills Development Programme** · BRAC University · *Sep 2025 – Feb 2026*
-Built an AI-powered job recommendation system using RAG, LLMs and vector search. Engineered a CV-parsing micro-service with OCR (PDF + images) and an automated job-scraping pipeline with fuzzy filtering. Contributed to the workforce analytics dashboard API.
-
-**BRACU Mongol Tori (University Rover Team)** · *Nov 2021 – Present*
-- *Technical Advisor* (Jul 2024 – Present) — High-level technical strategy, mentorship, knowledge transfer.
-- *Team Lead* (Jul 2022 – Jun 2023) — Led a ~40-member multidisciplinary team; represented BRAC at the **University Rover Challenge 2023 (USA)** and **International Rover Challenge 2023 (India)**; primary rover operator.
-- *Electronic Controls Engineer* (Apr – Aug 2022) — Power systems and PCBs (Autodesk Eagle); RTK-GPS mapping system.
-- *Control Systems Engineer* (Feb – Apr 2022) — ROS-based comms architecture; 6-DOF inverse kinematics; autonomous science module.
-
-**Undergraduate Research Assistant** — Laboratory of Space System Engineering & Technology · *Jul – Oct 2022*
-Project: *Indigenous 2U CubeSat Payload for Onboard Image Classification.* Designed microcontroller-based architecture for embedded deep learning, integrated industrial/multispectral cameras, and deployed optimized DL models for on-board classification.
+- 🥈 **8th** · University Rover Challenge 2025 — The Mars Society, Utah
+- 🥇 **National Champion** · KIBO Robot Programming Challenge 2022 — JAXA, Tokyo
+- 🏆 **Champion** · AUST Rover Challenge 2022
+- 🎖️ **9th** International Rover Challenge 2023 (India) · **16th** URC 2023 (USA)
+- 🎓 **BS CSE, BRAC University** — CGPA 3.65, VC's List × 7
 
 ---
 
-## Professional Experience
+### 📊 GitHub Stats
 
-**Embedded Systems & Software Engineer** — Sa.Ni.Corporate Srl, Rome, Italy (Remote) · *Jul 2024 – Mar 2025*
-Hardware/software for medical baropodometry devices. Built Windows automation tooling in PowerShell and reverse-engineered a C++ medical visualization application.
+<p align="center">
+  <a href="https://github.com/nekosaif">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=nekosaif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117"/>
+  </a>
+  <a href="https://github.com/nekosaif">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekosaif&layout=compact&langs_count=8&hide_border=true&title_color=1f6feb&text_color=c9d1d9&bg_color=0d1117"/>
+  </a>
+</p>
 
-**Artificial Intelligence Intern** — Genofax® · *Jul 2023 – Jan 2024*
-TensorFlow/Keras/Scikit-Learn models for healthcare. Researched personalized healthcare, genetics, epigenetics and microbiome diagnosis. Built an AI bioinformatics pipeline for bacterial taxonomic classification and designed big-data pipelines on AWS. Worked on conversational AI/chatbots (Flask, Jinja).
+<p align="center">
+  <a href="https://github.com/nekosaif">
+    <img src="https://streak-stats.demolab.com?user=nekosaif&hide_border=true&background=0d1117&stroke=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=c9d1d9"/>
+  </a>
+</p>
 
-**Student Instructor** — BRAC University Computer Club (Part-time) · *Nov 2021 – Apr 2022*
-Taught Python, C++ and Java online; provided learner support across online platforms.
-
----
-
-## Selected Projects
-
-- **Resilient Autonomous Navigation in Hyper-Congested Urban Environments** *(Sep 2025 – Present)* — Hybrid IL+RL navigation system for Dhaka's unstructured traffic using a TransFuser architecture, SAGE-based split computing over Multi-RAT 5G, a physical EV platform with drive-by-wire actuation, and the Dhaka-Dense Dataset (D3). Integrates an AdaThinkDrive mechanism. *(TransFuser, LiDAR, CV, 5G, SAM, VLM, Informer.)*
-
-- **Multi-Agent Pathfinder for Optimal Path Selection of Multiple Fog Robots** *(Nov 2023 – Mar 2024)* — Cost-effective multi-robot path planning using Fog Robotics; modified-CBS algorithms, YOLOv8 detection, and RL exploration. *(ROS, Gazebo, YOLOv8, OpenCV, AR tags, DQN, PPO, MARL, ESP32, REST.)*
-
-- **LangChain Chatbot API** — [nekosaif/langchain-chatbot-api](https://github.com/nekosaif/langchain-chatbot-api) *(Jan 2025)* — Production-ready FastAPI backend with custom FAQ training, PDF/TXT/CSV support, FAISS vector search and Docker packaging. *(Python, FastAPI, LangChain, OpenAI GPT, FAISS, Docker.)*
-
-- **FAQ Chatbot Frontend with Flask** — [nekosaif/flask-chatbot-demo](https://github.com/nekosaif/flask-chatbot-demo) *(Feb 2025)* — Lightweight responsive frontend with real-time chat. *(Flask, Tailwind CSS, JavaScript.)*
-
-- **PatientEntry Automated Installer** — [nekosaif/patient_entry_setup](https://github.com/nekosaif/patient_entry_setup) *(Jul – Sep 2024)* — Automated installer for medical software with silent installs, WinRAR SFX packaging and localized variants. *(PowerShell, Batch, WinRAR SFX.)*
-
-- **BIRDS-X APRS Payload Design** *(Dec 2022 – Dec 2023)* — Led APRS payload design for a 2U CubeSat; feasibility studies, link budgets, breadboard/engineering models. Holder of an Amateur Radio license.
-
-- **Eshon-Sat — 1U CubeSat Training Kit** *(Mar – Nov 2022)* — Developed and programmed the On-Board Compute (OBC) module; designed flash-memory firmware; ran comms-protocol testing. *(C/C++, CubeSat architecture.)*
-
-- **Rover Inverse Kinematics** — [nekosaif/rover_inverse_kinematics](https://github.com/nekosaif/rover_inverse_kinematics) — 3-DOF arm IK with Arduino firmware and a Python control interface.
-
-- **Rover Control (ROS Joystick guide)** — [nekosaif/rover_control](https://github.com/nekosaif/rover_control) — ROS joystick installation, configuration and testing guide.
-
----
-
-## Skills & Tools
-
-**Languages** — Python (Expert), C/C++, Java, R, SQL, Bash, PowerShell
-**Deep Learning / CV** — PyTorch (Expert), TensorFlow, Keras, OpenCV, YOLO (v5/v8/v11), Mask R-CNN, U-Net, Detectron2, SAM, DINO, Stable Diffusion, OCR (Tesseract, PaddleOCR)
-**AI / ML / NLP** — Scikit-learn, LangChain, LlamaIndex, RAG systems, vector DBs (FAISS, Pinecone, ChromaDB), LLMs (GPT, Llama), Hugging Face Transformers, RL (DQN, PPO)
-**Robotics** — ROS, Gazebo, path planning (CBS), inverse kinematics, control systems, multi-agent systems, sensor integration
-**Embedded** — Arduino, Raspberry Pi, ESP32, FreeRTOS, embedded C/C++
-**Data Science** — Pandas, NumPy, bioinformatics pipelines, data viz, feature engineering, augmentation
-**Hardware / Electronics** — PCB design (Autodesk Eagle), circuit design & debug, power electronics
-**Satellite & Comms** — CubeSat design, APRS, satellite communications
-**Web / Backend** — Flask, FastAPI, REST APIs, HTML5, Tailwind, JavaScript, PHP, Jinja, MySQL, NoSQL
-**MLOps / Cloud** — Docker, Git, CI/CD, AWS (EC2, S3, SageMaker), W&B, MLflow, model quantization, Render/Heroku
-**Tools** — Windows automation, reverse engineering, PyQt GUIs, Linux (Ubuntu, Raspbian), Jupyter
-
----
-
-## Honors & Awards
-
-- 🥇 **8th place — University Rover Challenge 2025**, The Mars Society, Utah, USA *(Jun 2025)*
-- 🥇 **National Round Champion — KIBO Robot Programming Challenge 2022**, JAXA, Tokyo *(Apr 2023)*
-- 🏆 **Champion — AUST Rover Challenge 2022**, Dhaka *(Aug 2022)*
-- 🥈 **9th place — International Rover Challenge 2023**, Space Robotics Society, Bengaluru *(Jan 2023)*
-- 🥉 **16th place — University Rover Challenge 2023**, The Mars Society, Utah *(Jun 2023)*
-- 🎖️ **21st place — International Rover Design Challenge 2022**, Space Robotics Society *(Dec 2022)*
-- 🎖️ **Crew Award — KIBO Robot Programming Challenge 2022**, JAXA *(Oct 2022)*
-
----
-
-## Certifications
-
-- **IBM Data Science Professional Certificate** — IBM / Coursera (2025)
-- **Deep Learning Specialization** — DeepLearning.AI / Coursera (2024)
-- **Electronics System and PCB Design** — IEEE AESS (Sep 2022)
-- **Mission Oz 2022 Participant** — Space Teams Academy (Dec 2022)
-- **Python 3 Programming Specialization** — University of Michigan / Coursera (2020)
-- **Java Programming & Software Engineering Fundamentals** — Duke University / Coursera (2020)
-- **How Sensors are Making Better Urban Environment** — IEEE Innovation at Work, PDH (2021)
-
----
-
-## Volunteering
-
-- **Volunteer → Registration Team Manager — ICRA 2025**, Atlanta, USA *(May 2025)*
-- **Volunteer — BRAC Hope Festival**, BRAC University *(Feb 2023)*
-
----
-
-## Languages
-
-- **English** — Professional proficiency
-- **Bangla** — Native / bilingual proficiency
-
----
-
-## What I'm working on
-
-- Real-time autonomy and sensor fusion for indoor/outdoor navigation in unstructured environments
-- Productionizing LangChain-based knowledge assistants with reliable retrieval and RAG pipelines
-- On-device ML optimization for embedded vision systems
-
-## Open to
-
-- Full-time / remote roles in Embedded Systems, Robotics & AI
-- Collaboration on robotics, LLM-augmented tooling, and healthcare ML
-- Research partnerships in autonomous navigation and edge ML
-
----
-
-## GitHub Stats
-
-![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekosaif&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekosaif&layout=compact&theme=tokyonight)
-
----
-
-## Contact
-
-- 📧 mollahmdsaif@gmail.com
-- 💬 [linkedin.com/in/nekosaif](https://linkedin.com/in/nekosaif)
-- 🌐 [nekosaif.com](https://nekosaif.com)
+<p align="center">
+  <a href="https://github.com/nekosaif">
+    <img src="https://github-profile-trophy.vercel.app/?username=nekosaif&theme=tokyonight&no-frame=true&column=7&margin-w=8"/>
+  </a>
+</p>
